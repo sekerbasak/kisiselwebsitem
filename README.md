@@ -1,11 +1,18 @@
 # kişiselwebsitem
+
 B211210028 Başak Şeker
+
  
 # WEB TEKNOLOJİLERİ DERSİ KİŞİSEL 
+
        # WEBSİTE BİLGİ DOKÜMANI
+       
 ##Proje Amacı:
+
  •Kendimi detaylıca tanıtan kişisel bir website hazırlamak.
+ 
 ##Projenin Taslağı:
+
  •Kullanıcı websiteme ilk girdiğinde profilimle küçük bir giriş konuşmasıyla kendimi 
 tanıttığım bir giriş sayfasıyla karşılanacak. ANASAYFA burası diyebiliriz. Burda 
 kullanıcıların bana ulaşabileceği Instagram, Twitter, Facebook ve Githup sayfa linklerimi 
