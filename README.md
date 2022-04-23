@@ -1,6 +1,6 @@
 ## kişiselwebsitem
 
-## B211210028 Başak Şeker
+### B211210028 Başak Şeker A grubu 1.Öğretim
 
  
 ## WEB TEKNOLOJİLERİ DERSİ KİŞİSEL WEBSİTE BİLGİ DOKÜMANI
