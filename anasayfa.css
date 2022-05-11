@@ -1,0 +1,29 @@
+.arayuz{
+    width:450px ;
+    background: #C5E1A5;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+}
+body{ background-image:url(images/indiir.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;}
+.arayuz h1{   font-weight: bold; font-family:'Times New Roman', Times, serif; letter-spacing: 4px;}
+.arayuz p{ text-align: justify; }
+.arayuz ul{ margin:0; padding: 0;}
+.arayuz ul li{ display:inline-block; margin: 6px; list-style: none;}
+.arayuz li a{ color: black; font-size: 40px; transition: all ease-in-out 250ms;}
+.arayuz li a:hover{ color:gray;}
+     
+
+
+
+
+
+
+
+
+
+
+
