@@ -1,0 +1,67 @@
+.baslik{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5em;
+    
+}
+.row-text{
+    margin: 2rem 0;
+}
+.label{
+    text-align: center;
+}
+.text{
+    width: 75%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-left: 0.5em;
+    opacity: 0.8;
+}
+.text:hover{
+    opacity: 1;
+    box-shadow: 1px 1px 1px gray;
+    transition: all 0.1s linear;
+}
+form button{
+    width: 40%;
+    border: 1px solid #C5E1A5;
+    border-radius: 10px;
+    background-color: #C5E1A5;
+    color: black;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px gray;
+    opacity: 0.8;
+}
+form button:hover{
+    opacity: 1;
+    box-shadow: 2px 2px 2px rgb(75, 72, 72);
+    transition: all 0.1s linear;
+}
+.button{
+    text-align: center;
+    margin: 1rem 0;
+}
+.hata{
+    height: 5rem;
+    border: 1px solid #C5E1A5;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(119, 121, 129);
+    margin-top: 1rem;
+    visibility: hidden;
+    line-height: 5rem;
+    text-align: center;
+    color: #C5E1A5;
+
+}
+.footer{
+    margin-top: 2rem;
+}
+@media screen and (max-width: 760px){
+    .label{
+        text-align: left;
+    }
+    .button{
+        text-align: center;
+        margin: 0.5rem 0;
+    }
+}

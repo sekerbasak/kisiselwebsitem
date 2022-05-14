@@ -1,0 +1,59 @@
+.govde{
+   
+    min-height: 30rem;
+    
+}
+.row-resim{
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+.row-resim img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+.text{
+    width: 75%;
+    border: 1px solid gray;
+    padding-left: 1rem;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+.text:hover{
+    opacity: 1;
+    box-shadow: 1px 1px 1px gray;
+    transition: all 0.1s linear;
+}
+.text-div{
+    text-align: center;
+}
+.row-text{
+    margin-top: 1rem;
+}
+.button{
+    width: 30%;
+    border: 1px solid rgb(153, 185, 131);
+    border-radius: 10px;
+    background-color: #C5E1A5;
+    color: rgb(7, 7, 7);
+    box-shadow: 1px 1px 1px gray;
+    opacity: 0.8;
+}
+.button:hover{
+    opacity: 1;
+    box-shadow: 2px 2px 2px rgb(75, 72, 72);
+    transition: all 0.1s linear;
+}
+.hata{
+    height: 5rem;
+    border: 1px solid rgb(153, 185, 131);
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(119, 121, 129);
+    margin-top: 2rem;
+    visibility: hidden;
+    line-height: 5rem;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}

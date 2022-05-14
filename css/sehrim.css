@@ -1,0 +1,78 @@
+.baslik{
+    margin: 3rem 0;
+    text-align: center;
+    height: 5rem;
+    line-height: 5rem;
+    font-size: 2.5em;
+    border: 1px solid rgb(153, 185, 131);
+    border-radius: 20px;
+    background-color: rgb(153, 185, 131);
+    color: rgb(8, 8, 8);
+    box-shadow: 2px 2px 2px gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.9;
+}
+.baslik a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+    font-family: 'Times New Roman', Times, serif;
+}
+ h4{
+     color:#6B8E23 ;
+     font-weight: bold;
+ }
+.baslik a:hover{
+    text-decoration: none;
+    color: rgb(250, 248, 248);
+}
+.baslik:hover{
+    opacity: 1;
+    color: rgb(250, 248, 248);
+}
+.alt-baslik{
+    text-align: center;
+    height: 4rem;
+    line-height: 4rem;
+    border: 1px solid rgb(153, 185, 131);
+    border-radius: 20px;
+    background-color: rgb(153, 185, 131);
+    color: rgb(3, 3, 3);
+    box-shadow: 2px 2px 2px gainsboro;
+    opacity: 0.9;
+    margin: 1rem 0;
+}
+
+.alt-baslik:hover{
+    opacity: 1;
+    color: rgb(250, 248, 248);
+}
+
+
+
+.ozet{
+    border: 2px solid rgb(153, 185, 131);
+    margin: 3rem 0;
+    text-align: center;
+    padding: 2em;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px gainsboro;
+}
+#ne-yapmali{
+    line-height: 4rem;
+}
+.slider{
+    text-align: center;
+}
+.slider img{
+    width: 80%;
+    height: 20rem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px gray;
+    opacity: 0.9;
+}
+.slider img:hover{
+    opacity: 1;
+}
+.icerik{
+    text-align: justify;
+}
