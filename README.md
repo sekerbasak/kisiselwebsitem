@@ -46,3 +46,4 @@ iletişime geçebilecekleri bir form elemanlarıyla tasarlayacağım kontrollü 
 
 
 ## GİTHUP LİNKİ: https://github.com/sekerbasak/ki-iselwebsitem.git
+## WEBSİTEMİN LİNKİ:http://b211210028.42web.io/
